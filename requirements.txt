@@ -2,3 +2,8 @@ torch
 numpy
 pandas
 opencv-python
+ipykernel
+matplotlib
+torchvision
+transformers
+tqdm
