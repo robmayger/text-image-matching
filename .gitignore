@@ -1,0 +1,8 @@
+data/Flicker8k_Dataset/*
+data/Flicker8k_text/*
+data/Flickr8k_text/*
+
+*.zip
+*.jpg
+
+.DS_Store
